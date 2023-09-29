@@ -94,7 +94,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#contact">Message Us Now</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 010-020-0340</a>
+                      <a href="#"><i class="fa fa-phone"></i> 0313-8600204</a>
                     </div>
                   </div>
                 </div>
@@ -107,7 +107,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#services">Our Services</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 090-080-0760</a>
+                      <a href="#"><i class="fa fa-phone"></i> 0345-7666806</a>
                     </div>
                   </div>
                 </div>
