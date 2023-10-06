@@ -638,8 +638,8 @@ https://templatemo.com/tm-565-onix-digital
               <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="360px" frameborder="0" style="border:0" allowfullscreen=""></iframe>
             </div>
             <div class="info">
-              <span><i class="fa fa-phone"></i> <a href="#">010-020-0340<br>090-080-0760</a></span>
-              <span><i class="fa fa-envelope"></i> <a href="#">info@company.com<br>mail@company.com</a></span>
+              <span><i class="fa fa-phone"></i> <a href="#">0313-8600204<br>0345-7666806</a></span>
+              <span><i class="fa fa-envelope"></i> <a href="#">miannadeem@msn.com<br>mail@company.com</a></span>
             </div>
           </div>
         </div>
