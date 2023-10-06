@@ -236,7 +236,7 @@ https://templatemo.com/tm-565-onix-digital
                     <div class="icon">
                       <img src="assets/images/service-icon-01.png" alt="">
                     </div>
-                    <div class="count-digit">320</div>
+                    <div class="count-digit">320 DevOps Project</div>
                     <div class="count-title">SEO Projects</div>
                     <p>Lorem ipsum dolor sitti amet, consectetur.</p>
                   </div>
@@ -248,7 +248,7 @@ https://templatemo.com/tm-565-onix-digital
                     <div class="icon">
                       <img src="assets/images/service-icon-02.png" alt="">
                     </div>
-                    <div class="count-digit">640</div>
+                    <div class="count-digit">640 DevOps Project</div>
                     <div class="count-title">Websites</div>
                     <p>Lorem ipsum dolor sitti amet, consectetur.</p>
                   </div>
