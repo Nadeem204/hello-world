@@ -99,8 +99,8 @@ https://templatemo.com/tm-565-onix-digital
                   </div>
                 </div>
                 <div class="item header-text">
-                  <h6>Online Marketing</h6>
-                  <h2>Get the <em>best ideas</em> for <span>your website</span></h2>
+                  <h6>Online DevOps</h6>
+                  <h2>Get the <em>best DevOps Ideas</em> for <span>your website</span></h2>
                   <p>You are NOT allowed to redistribute this template ZIP file on any Free CSS collection websites. Contact us for more info. Thank you.</p>
                   <div class="down-buttons">
                     <div class="main-blue-button-hover">
@@ -120,7 +120,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#video">Watch Videos</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 050-040-0320</a>
+                      <a href="#"><i class="fa fa-phone"></i> 032-59464230</a>
                     </div>
                   </div>
                 </div>
