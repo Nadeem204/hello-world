@@ -100,7 +100,7 @@ https://templatemo.com/tm-565-onix-digital
                 </div>
                 <div class="item header-text">
                   <h6>Online DevOps</h6>
-                  <h2>Get the <em>best DevOps Ideas</em> for <span>your website</span></h2>
+                  <h2>Find the <em>best DevOps Ideas</em> for <span>your website</span></h2>
                   <p>You are NOT allowed to redistribute this template ZIP file on any Free CSS collection websites. Contact us for more info. Thank you.</p>
                   <div class="down-buttons">
                     <div class="main-blue-button-hover">
@@ -113,7 +113,7 @@ https://templatemo.com/tm-565-onix-digital
                 </div>
                 <div class="item header-text">
                   <h6>Video Tutorials</h6>
-                  <h2>Watch <em>our videos</em> for your <span>projects</span></h2>
+                  <h2>Watch <em>our DevOps Videos</em> for your <span>projects</span></h2>
                   <p>Please <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little via PayPal if this digital marketing HTML template is useful for you. Thank you.</p>
                   <div class="down-buttons">
                     <div class="main-blue-button-hover">
