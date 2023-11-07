@@ -120,7 +120,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#video">Watch Videos</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 0325-9464204</a>
+                      <a href="#"><i class="fa fa-phone"></i> 03259464204</a>
                     </div>
                   </div>
                 </div>
