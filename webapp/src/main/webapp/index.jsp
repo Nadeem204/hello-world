@@ -94,7 +94,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#contact">Message Us Now</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 0313-8600204</a>
+                      <a href="#"><i class="fa fa-phone"></i> 0313-7900204</a>
                     </div>
                   </div>
                 </div>
