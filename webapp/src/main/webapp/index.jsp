@@ -107,7 +107,7 @@ https://templatemo.com/tm-565-onix-digital
                       <a href="#services">Our Services</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 0345-7666806</a>
+                      <a href="#"><i class="fa fa-phone"></i> 0345-7666000</a>
                     </div>
                   </div>
                 </div>
